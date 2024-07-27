@@ -40,7 +40,12 @@ Cuando el usuario adivine correctamente el número secreto, el programa debe mos
 
 # Parcial 3 Tarea 2
 # Instrucciones del ejercicion 
-Crea un programa que permita al usuario administrar una lista de tareas pendientes. El programa debe tener las siguientes funciones:agregar_tarea(tareas, tarea): Esta función debería recibir una lista tareas y una tarea como entrada y agregar la tarea a la lista.listar_tareas(tareas): Esta función debería mostrar la lista de tareas numeradas.completar_tarea(tareas, numero): Esta función debería recibir una lista tareas y el número de una tarea y marcar esa tarea como completada.eliminar_tarea(tareas, numero): Esta función debería recibir una lista tareas y el número de una tarea y eliminar esa tarea de la lista.
+Crea un programa que permita al usuario administrar una lista de tareas pendientes. 
+El programa debe tener las siguientes funciones:
+agregar_tarea(tareas, tarea): Esta función debería recibir una lista tareas y una tarea como entrada y agregar la tarea a la lista.
+listar_tareas(tareas): Esta función debería mostrar la lista de tareas numeradas.
+completar_tarea(tareas, numero): Esta función debería recibir una lista tareas y el número de una tarea y marcar esa tarea como completada.
+eliminar_tarea(tareas, numero): Esta función debería recibir una lista tareas y el número de una tarea y eliminar esa tarea de la lista.
 El programa principal debe usar un bucle para permitir al usuario realizar las siguientes operaciones:
 * Agregar una nueva tarea.
 * Listar las tareas pendientes.
