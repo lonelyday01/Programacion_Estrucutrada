@@ -63,9 +63,10 @@ El programa principal debe usar un bucle para permitir al usuario realizar las s
 
 ## Instrucciones del ejercicio
 
-Con base al codigo de diccionarios dentro de este mismo repositorio realiza el siguiente ejercio
-1.- Solicitar al usuario un numero entero
-2.- El programa deberá convertir o traducir ese numero entero en un numero romano
-3.- Deberá hacer uso de funciones, diccionarios
-4.- Deberá mostrar al usuario el número convertido en romano
-5.- Solo permitirá números inferiores a 1001, mostrar una alerta cuando se ingrese un número mayor y solicitar uno nuevo
+Con base al codigo de diccionarios dentro de este mismo repositorio realiza el siguiente ejercio:
+
+* Solicitar al usuario un numero entero
+* El programa deberá convertir o traducir ese numero entero en un numero romano
+* Deberá hacer uso de funciones, diccionarios
+* Deberá mostrar al usuario el número convertido en romano
+* Solo permitirá números inferiores a 1001, mostrar una alerta cuando se ingrese un número mayor y solicitar uno nuevo
