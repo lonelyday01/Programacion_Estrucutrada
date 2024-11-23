@@ -70,3 +70,26 @@ Con base al codigo de diccionarios dentro de este mismo repositorio realiza el s
 * Deberá hacer uso de funciones, diccionarios
 * Deberá mostrar al usuario el número convertido en romano
 * Solo permitirá números inferiores a 1001, mostrar una alerta cuando se ingrese un número mayor y solicitar uno nuevo
+
+
+
+# Examen POO
+## Instrucciones del examen
+Descripción del Proyecto
+La empresa tiene diferentes tipos de vehículos (autos, motocicletas, camiones) que se pueden alquilar. Cada vehículo tiene características generales (como marca, modelo, año, precio por día) y comportamientos específicos según su tipo (por ejemplo, un camión puede transportar carga, mientras que un auto puede ser de lujo o estándar).
+
+Estructura del Proyecto
+Clases principales:
+
+Una clase base abstracta Vehiculo.
+Subclases para tipos específicos de vehículos (Auto, Motocicleta, Camion).
+Encapsulamiento:
+
+Atributos privados o protegidos (por ejemplo, el estado del vehículo: disponible, alquilado).
+Métodos para consultar o modificar el estado de forma controlada.
+Herencia:
+
+Las subclases heredan atributos y métodos de la clase base Vehiculo.
+Polimorfismo:
+
+Un método como calcular_precio() puede comportarse de forma diferente según el tipo de vehículo (por ejemplo, precios adicionales para autos de lujo).
